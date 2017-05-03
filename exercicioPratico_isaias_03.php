@@ -1,6 +1,6 @@
 <title> isaías </title>
 <?php
-require_once "exercicioPratico04.html";
+require_once "exercicioPratico4.html";
 $n1= $_POST["n1"];
 $n2= $_POST["n2"];
 $op= $_POST["op"];
